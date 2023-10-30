@@ -1,5 +1,6 @@
 # ECE444-F2023-Lab5
 # Test Cases to group project:
+I wrote three tests that check if a user has added all of the information required to create an event. That a user can update an event and that a user can delete an event. My name in the comments in Zaid Husseini.
 
 # What are the pros and cons of TDD?
 
